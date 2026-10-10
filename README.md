@@ -7,7 +7,6 @@
 - 💡 Practicing Data Structures and Algorithms using Java.
 - 🌐 Building full-stack applications using the MERN stack.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🔬 Working on RF-based human detection and localization for disaster rescue.
 - 🚀 Focused on improving coding skills and building real-world projects.
 
 ---
@@ -70,39 +69,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratikpatil1101&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikpatil1101&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratikpatil1101&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratikpatil1101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies"/>
-</p>
-
----
-
-### 💭 Developer Quote
-
-<p align="center">
-  <i>"Great things are done by a series of small things brought together."</i>
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
-</p>
