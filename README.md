@@ -71,6 +71,8 @@
 
 ### 🚀 Featured Projects
 
+
+- 🤖 **[HireSense – AI Placement Preparation Assistant](YOUR-GITHUB-REPOSITORY-LINK)** — AI-powered placement preparation platform designed to help students prepare for software engineering roles.
 - 🛒 [**Ecommerce Website**](https://github.com/Pratikpatil1101/Ecommerce-Website) — Full-stack e-commerce application.
 - 🍽️ [**Restaurant Management System**](https://github.com/Pratikpatil1101/restaurant-management-system) — Restaurant management application.
 - 🖱️ [**AI Virtual Mouse**](https://github.com/Pratikpatil1101/AI-Virtual-Mouse) — Computer vision-based virtual mouse using Python.
