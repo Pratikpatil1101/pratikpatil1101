@@ -71,12 +71,17 @@
 
 ### 🚀 Featured Projects
 
+- 🤖 [**HireSense – AI Placement Preparation Assistant**](https://github.com/Pratikpatil1101/HireSense-AI-Placement-Assistant) — AI-powered placement preparation platform designed to help students prepare for technical interviews and software engineering roles.
 
-- 🤖 **[HireSense – AI Placement Preparation Assistant](YOUR-GITHUB-REPOSITORY-LINK)** — AI-powered placement preparation platform designed to help students prepare for software engineering roles.
-- 🛒 [**Ecommerce Website**](https://github.com/Pratikpatil1101/Ecommerce-Website) — Full-stack e-commerce application.
-- 🍽️ [**Restaurant Management System**](https://github.com/Pratikpatil1101/restaurant-management-system) — Restaurant management application.
-- 🖱️ [**AI Virtual Mouse**](https://github.com/Pratikpatil1101/AI-Virtual-Mouse) — Computer vision-based virtual mouse using Python.
-- 🧠 [**AI Forward and Backward Chaining**](https://github.com/Pratikpatil1101/Ai-forward-backward-chaining) — Rule-based AI reasoning project.
+- 🛒 [**E-Commerce Website**](https://github.com/Pratikpatil1101/Ecommerce-Website) — Full-stack MERN application with authentication, product management, shopping cart and payment integration.
+
+- 🍽️ [**Restaurant Management System**](https://github.com/Pratikpatil1101/restaurant-management-system) — Web-based application for restaurant operations, food ordering and management.
+
+- 🖱️ [**AI Virtual Mouse**](https://github.com/Pratikpatil1101/AI-Virtual-Mouse) — Computer vision-based virtual mouse using Python, OpenCV and MediaPipe.
+
+- 🧠 [**AI Forward and Backward Chaining**](https://github.com/Pratikpatil1101/Ai-forward-backward-chaining) — Rule-based artificial intelligence reasoning system.
+
+---
 
 ---
 
